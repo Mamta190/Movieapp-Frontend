@@ -10,7 +10,7 @@ class Controller extends Component {
   constructor()
   {
     super();
-    this.baseUrl = "http://100.25.201.216:8080/api/v1/";
+    this.baseUrl = "http://34.227.94.147:8080/api/v1/";
   }
   render(){
     return(
